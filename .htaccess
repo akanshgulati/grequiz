@@ -1,0 +1,3 @@
+AddType application/x-httpd-php .htm .html
+RewriteEngine On
+RewriteRule ^([^/]*)\.html$ /list.php?list=$1 [L]
