@@ -12,3 +12,7 @@ This application is made for the GRE aspirants who finds difficult to mug up voc
   2. Click on the play button.
 The word will automatically change after a regular interval of 4 seconds. 
 
+### Features:
+ 1. The layout is subtle and impressive.
+ 2. Maximum stress is given to the word and rest all elements are smaller to maximize the learning.
+ 3. Automated quiz option for not clicking on "Next" button.
